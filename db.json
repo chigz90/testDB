@@ -1,0 +1,13 @@
+{
+    "user" : {
+        "username": "test",
+        "email" : ""
+    },
+    
+    "info" : {
+        "pob" : "UK",
+        "year" : "1999"
+    }
+    
+    
+}
